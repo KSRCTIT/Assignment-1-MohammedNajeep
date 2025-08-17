@@ -1,0 +1,15 @@
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.AssemblyInfoInputs.cache
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.AssemblyInfo.cs
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.csproj.CoreCompileInputs.cache
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.sourcelink.json
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\bin\Debug\net9.0\AssignmentAnswerApp.exe
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\bin\Debug\net9.0\AssignmentAnswerApp.deps.json
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\bin\Debug\net9.0\AssignmentAnswerApp.runtimeconfig.json
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\bin\Debug\net9.0\AssignmentAnswerApp.dll
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\bin\Debug\net9.0\AssignmentAnswerApp.pdb
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.dll
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\refint\AssignmentAnswerApp.dll
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.pdb
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\AssignmentAnswerApp.genruntimeconfig.cache
+C:\Users\mstha\github-classroom\KSRCTIT\Assignment-1-MohammedNajeep\obj\Debug\net9.0\ref\AssignmentAnswerApp.dll
